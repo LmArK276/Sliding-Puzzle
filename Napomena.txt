@@ -1,0 +1,3 @@
+Pre pokretanja aplikacije potrebno je ucitati prilozeni .mdf fajl u Microsoft SQL Server Management Studio i 
+kada je baza ucitana potrebno je u Server Explorer kartici unutar Visual Studia obezbediti konekciju sa bazom. 
+Nakon toga treba izmeniti konekcioni string u klasi DbConnection.

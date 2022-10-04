@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slagalica_97_2018", "Slagalica_97_2018\Slagalica_97_2018.csproj", "{48018C0B-676D-457A-A28A-32E8478BC11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48018C0B-676D-457A-A28A-32E8478BC11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48018C0B-676D-457A-A28A-32E8478BC11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48018C0B-676D-457A-A28A-32E8478BC11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48018C0B-676D-457A-A28A-32E8478BC11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF81506-FF09-4CE9-9FD7-32F4F43AB6C5}
+	EndGlobalSection
+EndGlobal

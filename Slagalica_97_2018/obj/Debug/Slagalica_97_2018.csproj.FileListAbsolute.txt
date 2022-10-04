@@ -1,0 +1,12 @@
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\bin\Debug\Slagalica_97_2018.exe.config
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\bin\Debug\Slagalica_97_2018.exe
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\bin\Debug\Slagalica_97_2018.pdb
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.csproj.AssemblyReference.cache
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.csproj.SuggestedBindingRedirects.cache
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.Form1.resources
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.Form2.resources
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.Properties.Resources.resources
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.csproj.GenerateResource.cache
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.csproj.CoreCompileInputs.cache
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.exe
+C:\Users\LmArK\Desktop\FAKS\DS\DS PROJEKTI\Slagalica_97_2018\Slagalica_97_2018\obj\Debug\Slagalica_97_2018.pdb
